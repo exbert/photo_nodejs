@@ -1,0 +1,23 @@
+{
+  "name": "photo_nodejs",
+  "version": "1.0.0",
+  "description": "\"# photo_nodejs\"",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/exbert/photo_nodejs.git"
+  },
+  "bugs": {
+    "url": "https://github.com/exbert/photo_nodejs/issues"
+  },
+  "homepage": "https://github.com/exbert/photo_nodejs#readme",
+  "devDependencies": {
+    "prettier": "2.6.2"
+  }
+}
